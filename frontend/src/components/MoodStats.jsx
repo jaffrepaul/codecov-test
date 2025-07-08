@@ -9,7 +9,7 @@ const MoodStats = ({ refreshTrigger }) => {
   const moodEmojis = {
     happy: '😊',
     sad: '😢',
-    angry: '😠',
+    angry: '😡',
     anxious: '😰',
     excited: '🤩',
     calm: '😌',
