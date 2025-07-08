@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install express sqlite3 cors dotenv)",
+      "Bash(npm install:*)",
+      "Bash(npm test)",
+      "Bash(npm run lint)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Bash(npx tailwindcss init:*)"
+    ],
+    "deny": []
+  }
+}
